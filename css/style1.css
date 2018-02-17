@@ -1,0 +1,52 @@
+body{
+	background-image:url(tech.jpg);
+	background-size:cover;
+}
+#head{
+	color:black;
+	margin-bottom:-119px;
+	font-family:arial-black;
+	
+}
+#opc{
+	background-color: black;
+    min-height: 600px;
+    width: 500px;
+    margin-bottom: 10px;
+    margin-top: 118px;
+	opacity:0.66;
+	box-shadow:-5px -5px 8px 5px green;
+}
+#name{
+	padding:30px;
+	color:white;
+	font-size:25px;
+	width:90%;
+	float:left;
+	margin-left:20px;
+	font-family:arabic typesetting;
+	font-style:bold;
+}
+#blood{
+	font-size:20px;
+	color:red;
+}
+#coun{
+	font-size:20px;
+	color:black;
+	font-family:arial;
+}
+#rad{
+	float:left;
+	font-size:25px;
+}
+.btn{
+	border-radius:0px;
+	width:128%;
+	font-size:30px;
+	line-height:40px;
+	float:left;
+	height:50px;
+	margin-left:-22px;
+	margin-top:15px;
+}
